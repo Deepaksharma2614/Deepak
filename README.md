@@ -1,2 +1,33 @@
 # Deepak
 This is a web-based project developed using HTML, CSS, and JavaScript. It provides an interactive user interface and is fully responsive. The project is deployed on Netlify for live access.
+
+A smart neighborhood service marketplace that brings trusted help to your doorstep with just a few clicks.
+
+Project name:ServerSphere
+
+project: Web Development
+
+Problem statment: Neighbourhood Service Marketplace Build a full-stack web startup platform connecting local service providers (plumbers, tutors, electricians, delivery agents) with customers.
+
+Problem stament title:Neighbourhood Service Marketplace
+
+Name: Deepak Sharma 
+
+Mobile no.: 6388339849
+
+Email: sharmadeepak68691@gmail.com , sharmadeepak@bbdu.ac.in
+
+Roll no.: 1250258175
+
+Project description :Finding reliable local service providers like plumbers, electricians, or tutors is often time-consuming and uncertain. Customers struggle with trust, availability, and lack of a unified platform, while local service providers face difficulty in reaching nearby clients and growing their business.
+
+Solution:The Neighbourhood Service Marketplace is a full-stack web platform that connects customers with trusted local service providers based on location. It enables users to easily discover, book, and review services, while providers can showcase their skills, manage requests, and build their reputation digitally.
+
+Key Features:
+
+  1.Location-based search for nearby service providers
+  2.Easy booking and scheduling system
+  3.Ratings and reviews for trust and transparency
+  4.Dedicated dashboards for customers and providers
+Web site link : https://neighborhood-service-marketplace.netlify.app/
+
