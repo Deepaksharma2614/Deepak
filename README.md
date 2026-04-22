@@ -9,7 +9,7 @@ project: Web Development
 
 Problem statment: Neighbourhood Service Marketplace Build a full-stack web startup platform connecting local service providers (plumbers, tutors, electricians, delivery agents) with customers.
 
-Problem stament title:Neighbourhood Service Marketplace
+Problem stament title: Neighbourhood Service Marketplace
 
 Name: Deepak Sharma 
 
