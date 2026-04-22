@@ -3,7 +3,7 @@ This is a web-based project developed using HTML, CSS, and JavaScript. It provid
 
 A smart neighborhood service marketplace that brings trusted help to your doorstep with just a few clicks.
 
-Project name:ServerSphere
+Project name: ServerSphere
 
 project: Web Development
 
