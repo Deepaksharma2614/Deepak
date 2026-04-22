@@ -13,11 +13,11 @@ Problem stament title: Neighbourhood Service Marketplace
 
 Name: Deepak Sharma 
 
-Mobile no.: 6388339849
+Mobile no: 6388339849
 
 Email: sharmadeepak68691@gmail.com , sharmadeepak@bbdu.ac.in
 
-Roll no.: 1250258175
+Roll no: 1250258175
 
 Project description :Finding reliable local service providers like plumbers, electricians, or tutors is often time-consuming and uncertain. Customers struggle with trust, availability, and lack of a unified platform, while local service providers face difficulty in reaching nearby clients and growing their business.
 
